@@ -1,1 +1,3 @@
 # BIOPYTHON
+
+In this project, I demonstrate how to use biopython to perform translation, transcription, NCBI Search and NCBI BLAST...
